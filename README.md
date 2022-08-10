@@ -1,7 +1,7 @@
 # dell-vostro-3681-efi
 此为黑苹果efi分享，持续更新
 支持自带的Wi-Fi和蓝牙
-睡眠无法唤醒（如有解决办法请写issues与我联系）
+睡眠无法唤醒（如有解决办法请写[issues](https://github.com/17374363415/dell-vostro-3681-efi/issues)与我联系）
 
 使用万能声卡驱动方法如下：
 首先是先去恢复模式把sip给关了
@@ -9,7 +9,7 @@
 csrutil disable
 csrutil authenticated-root disable
 后回车
-准备VoodooHDA.kext（https://sourceforge.net/projects/voodoohda/）和Hackintool（https://github.com/headkaze/Hackintool）
+准备[VoodooHDA.kext](https://sourceforge.net/projects/voodoohda/)和[Hackintool](https://github.com/headkaze/Hackintool)
 然后把VoodooHDA.kext拖进去L/E中（访达/macOS系统盘/资源库/extensions）
 然后打开Hackintool，在工具中选择右下角的重建缓存并修复权限
 在重建完后，应该就会弹出一个提示，这样就代表已经成功打进去了
