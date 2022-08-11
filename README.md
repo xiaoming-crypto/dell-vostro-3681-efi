@@ -51,9 +51,7 @@ csrutil authenticated-root disable
 
 
 ## End / 结语
-This EFI supports `macOS Monterey`
 本项目所提供的EFI支持`macOS Monterey`
-
 
 欢迎各位积极提交[Issue](https://github.com/17374363415/dell-vostro-3681-efi/issues)和[Pull request](https://github.com/Fu-Yuxuan-hub/ASUS-TUF-GAMING-B460M-PLUS-HACKINTOSH/pullshttps://github.com/17374363415/dell-vostro-3681-efi/pulls)
 
