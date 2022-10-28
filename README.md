@@ -40,5 +40,6 @@ https://www.dell.com/support/home/zh-cn/product-support/product/vostro-3681-desk
 
 
 ## 感谢名单
-重启解决方案来自[zhtengw](https://github.com/zhtengw)
-感谢[杆杆](https://github.com/Fu-Yuxuan-hub)大佬的参与更新与支持
+- 重启解决方案来自[zhtengw](https://github.com/zhtengw)
+- 音频解决方案来自[zh604131924](https://github.com/zh604131924)
+- 感谢[杆杆](https://github.com/Fu-Yuxuan-hub)大佬的参与更新与支持
