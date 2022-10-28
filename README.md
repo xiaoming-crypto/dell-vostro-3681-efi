@@ -24,23 +24,6 @@ https://www.dell.com/support/home/zh-cn/product-support/product/vostro-3681-desk
 | Integrated Graphics | Intel UHD Graphics 630 |
 | Wireless Card | Intel Wireless-AC 3165/9260 |
 
-## Drive sound card / 驱动声卡
-
-1.重启至`恢复模式`     
-2.在`终端`中运行
-```
-csrutil disable
-```
-
-```
-csrutil authenticated-root disable
-```      
-3.重启回系统并准备[VoodooHDA.kext](https://sourceforge.net/projects/voodoohda/)和[Hackintool](https://github.com/headkaze/Hackintool)      
-4.将VoodooHDA.kext放进L/E中`（访达/系统盘/资源库/extensions）`           
-5.打开Hackintool，在工具中选择右下角的`重建缓存`并`修复权限`        
-6.到`安全性偏好设置`里面，点击`允许`         
-7.重启并享受
-
 
 ## 注意事项
 - 请使用主板上的HDMI接口
