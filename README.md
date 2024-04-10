@@ -34,7 +34,7 @@ https://www.dell.com/support/home/zh-cn/product-support/product/vostro-3681-desk
 
 
 ## End / 结语
-本项目所提供的EFI支持`macOS Ventura`
+本项目所提供的EFI支持`macOS Sonoma`
 
 欢迎各位积极提交[Issue](https://github.com/17374363415/dell-vostro-3681-efi/issues)和[Pull request](https://github.com/Fu-Yuxuan-hub/ASUS-TUF-GAMING-B460M-PLUS-HACKINTOSH/pullshttps://github.com/17374363415/dell-vostro-3681-efi/pulls)
 
